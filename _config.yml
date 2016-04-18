@@ -1,7 +1,7 @@
 name: ermes-beta-test
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.13932882528752089
+typography_spectrum: 0.40047
 title: Only a beta-test website
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.14551925542764366
   lightness: 0.5442040998023003
   saturation: 0.5
-  rhythmicContrast: 0.9712715027853847
+  rhythmicContrast: 1
 purpose: []
