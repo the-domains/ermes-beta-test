@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ermes-beta-test]]></title>
+        <description><![CDATA[ermes-beta-test]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Apr 2016 09:15:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[160418-test]]></title>
+            <description><![CDATA[<p>post test </p>]]></description>
+            <link>undefined160418-test/index.html</link>
+            <guid isPermaLink="false">3566a2d5-3ded-4a2e-94a2-4c0ed8b78821</guid>
+            <pubDate>Mon, 18 Apr 2016 09:15:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
